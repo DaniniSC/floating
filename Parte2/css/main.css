@@ -1,0 +1,17 @@
+div:not(.contenedor) {
+	height: 100px;
+	width: 200px;
+	float: left;
+}
+.contenedor {
+	border: 1px solid grey;
+}
+.cajaAmarilla {
+	background-color: yellow;
+}
+.cajaAzul {
+	background-color: blue;
+}
+.cajaRosada {
+	background-color: #F133B5;
+}
